@@ -1,15 +1,15 @@
 {
-	"name": "Heroku Aria",
-	"description": "Run ariaNG on heroku",
-	"repository": "https://github.com/garg-mayank/aria-heroku",
-	"keywords": ["AriaNG"],
+	"name": "Better Rclone On Heorku",
+	"description": "Better Rclone on heroku",
+	"repository": "https://github.com/bnichs5/Better-Rclone-On-heroku",
+	"keywords": ["Rclone"],
 	"env": {
 		"HEROKU_APP_NAME": {
 			"description": "This should be the same as \"App name\" above.",
 			"value": ""
 		},
 		"ARIA2C_SECRET": {
-			"description": "Aria2c's secret",
+			"description": "The secret",
 			"value": ""
 		},
 		"RCLONE_CONFIG": {
