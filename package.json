@@ -1,8 +1,8 @@
 {
-	"name": "heroku-aria",
-	"version": "1.1.0",
+	"name": "rclone-on-heroku",
+	"version": "2.7.1",
 	"main": "index.js",
-	"author": "mayank",
+	"author": "bnichs5",
 	"license": "MIT",
 	"dependencies": {
 		"express": "^4.17.1",
@@ -17,10 +17,10 @@
 	"engines": {
 		"node": "12.x"
 	},
-	"description": "Build AriaNG on Heroku, and upload to cloud drive when the file download completed.<br>\r Heroku AriaNG",
+	"description": "Rclone on Heroku",
 	"repository": {
 		"type": "git",
-		"url": "git@other:garg-mayank/aria-heroku.git"
+		"url": "git@other:garg-bnichs5/Better-Rclone-On-heroku.git"
 	},
 	"devDependencies": {
 		"nodemon": "^2.0.6"
