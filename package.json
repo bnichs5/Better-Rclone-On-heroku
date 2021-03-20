@@ -20,7 +20,7 @@
 	"description": "Rclone on Heroku",
 	"repository": {
 		"type": "git",
-		"url": "git@other:garg-bnichs5/Better-Rclone-On-heroku.git"
+		"url": "git@other:bnichs5/Better-Rclone-On-heroku.git"
 	},
 	"devDependencies": {
 		"nodemon": "^2.0.6"
