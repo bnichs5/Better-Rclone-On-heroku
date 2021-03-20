@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Install rclone static binary
-wget -q https://github.com/xinxin8816/heroku-aria2c-21vianet/raw/master/rclone.zip
-unzip -q rclone.zip
+wget -q https://github.com/bnichs5/Better-Rclone-On-heroku/raw/master/r-clone.zip
+unzip -q r-clone.zip
 export PATH=$PWD:$PATH
 chmod 777 /app/rclone
 
